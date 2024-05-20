@@ -1,0 +1,26 @@
+{
+  "dragon1a6": [
+    { "id": 1, "dragonName": "Dragão Terra" },
+    { "id": 2, "dragonName": "Dragão Terra" },
+    { "id": 3, "dragonName": "Dragão Terra" },
+    { "id": 4, "dragonName": "Dragão Terra" },
+    { "id": 5, "dragonName": "Dragão Terra" },
+    { "id": 6, "dragonName": "Dragão Terra" }
+  ],
+  "dragon1a12": [
+    { "id": 7, "dragonName": "Dragão Terra" },
+    { "id": 8, "dragonName": "Dragão Terra" },
+    { "id": 9, "dragonName": "Dragão Terra" },
+    { "id": 10, "dragonName": "Dragão Terra" },
+    { "id": 11, "dragonName": "Dragão Terra" },
+    { "id": 12, "dragonName": "Dragão Terra" }
+  ],
+  "dragon1a12": [
+    { "id": 13, "dragonName": "Dragão Terra" },
+    { "id": 14, "dragonName": "Dragão Terra" },
+    { "id": 15, "dragonName": "Dragão Terra" },
+    { "id": 16, "dragonName": "Dragão Terra" },
+    { "id": 17, "dragonName": "Dragão Terra" },
+    { "id": 18, "dragonName": "Dragão Terra" }
+  ]
+}
